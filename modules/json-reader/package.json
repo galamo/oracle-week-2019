@@ -1,0 +1,11 @@
+{
+  "name": "galamo-products-account",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "gal amouyal",
+  "license": "ISC"
+}
